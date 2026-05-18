@@ -1,0 +1,8 @@
+{
+  "name": "AsesmenAI - Generator Soal",
+  "description": "Aplikasi generator soal asesmen cerdas bertenaga AI untuk guru profesional- dibuat oleh @faisalrohman jangan lupa kunjungi channel YT @hanyauntukmu dan website https://hanyauntukmu.my.id",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
